@@ -1,0 +1,45 @@
+h1 {
+  color: #FA7AA9;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-size: 60px;
+  background-color: gray;
+  margin-top: 5px;
+}
+.content{
+ margin: 100px;
+}
+.user-input{
+  margin-top: 30px;
+  width: 100px;
+  height:100px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin-top: 30px;
+  margin-left: 460px;
+}
+
+.submit-btn {
+  width:100px;
+  text-align: center;
+  display: flex;
+  background-color: #89AD8C;
+  padding: 5px;
+  margin-left: 50px;
+}
+
+.name {
+  width:180px;
+  display: flex;
+  background-color: white;
+  margin: 25px auto 5px auto;
+ padding: 5px;
+}
+
+.card-container {
+  margin-top: 50px;
+  padding: 30px;
+  background-color: pink;
+  text-align: center;
+}
